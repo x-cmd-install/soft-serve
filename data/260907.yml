@@ -5,7 +5,7 @@ about:
   head: 37685d3
   archived: false
   latestVersion: "v0.12.2"
-  collectedAt: 2026-09-07T04:34:52Z
+  collectedAt: 2026-09-07T19:52:56Z
 timeline:
   created: 2021-07-30
   lastCommit: 2026-08-12
@@ -81,7 +81,7 @@ total:
   commit: 1047
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/soft-serve
-collectedAt: 2026-09-07T04:34:54Z
+collectedAt: 2026-09-07T19:52:58Z
 loc:
   Go:
     code: 22774
@@ -117,7 +117,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:34:55+00:00
+  collectedAt: 2026-09-07T19:52:58+00:00
   platform:
     darwin/arm64:
       name:  soft-serve_0.12.2_Darwin_arm64.tar.gz
