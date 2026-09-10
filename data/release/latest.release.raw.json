@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3288,
       "digest": "sha256:4aa46bdfeb9c15f40a8de77bf447a774fc549a2128885ea620cb1f73e78165a8",
-      "download_count": 57,
+      "download_count": 60,
       "created_at": "2026-08-07T19:25:19Z",
       "updated_at": "2026-08-07T19:25:19Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10265698,
       "digest": "sha256:11647b7ec036829d5e0bd1b4f824dea0f558a2744905913ffaf1aeda50bf7794",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-08-07T19:25:19Z",
       "updated_at": "2026-08-07T19:25:19Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/soft-serve_0.12.2_arm64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10665608,
       "digest": "sha256:a5dace0dcfa8d49015fdf6f3be03e908412419e1e800b0f9df8ace5eab17ea0c",
-      "download_count": 219,
+      "download_count": 221,
       "created_at": "2026-08-07T19:25:17Z",
       "updated_at": "2026-08-07T19:25:18Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/soft-serve_0.12.2_Darwin_arm64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 11097783,
       "digest": "sha256:4f0759907dcbbdbf204e3a7e1bc4e76bcbfe6101c11c42c73a2b40388b67944a",
-      "download_count": 275,
+      "download_count": 279,
       "created_at": "2026-08-07T19:25:17Z",
       "updated_at": "2026-08-07T19:25:18Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/soft-serve_0.12.2_Linux_x86_64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 11334451,
       "digest": "sha256:ca20b46dcb451d2a7e2e7fb76bf5c22270219728bd9edd630c5a3e46baf72cc6",
-      "download_count": 245,
+      "download_count": 246,
       "created_at": "2026-08-07T19:25:17Z",
       "updated_at": "2026-08-07T19:25:18Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/soft-serve_0.12.2_Windows_x86_64.zip"
