@@ -12,6 +12,18 @@ The mighty, self-hostable Git server for the command line🍦
 x install soft-serve
 ```
 
+## Code insight
+
+Total: **23,136** lines of code across **256** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 22,774 | 2,391 | 3,895 | 240 |
+| Sql | 294 | 0 | 18 | 8 |
+| Yaml | 55 | 3 | 10 | 4 |
+| Dockerfile | 13 | 10 | 6 | 1 |
+| Markdown | 0 | 624 | 247 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/charmbracelet/soft-serve>
@@ -22,6 +34,25 @@ x install soft-serve
 - **Latest**: `v0.12.2` (2026-08-07)
 - **Last commit**: 2026-08-12
 - **Assets in release**: 34
+
+## Popularity
+
+- **Stars**: 7,217 · **Forks**: 241 · **Open issues**: 256 · **Contributors**: 57
+
+## Totals (cumulative)
+
+- **Releases**: 52 · **Merged PRs**: 479 · **Open PRs**: 10 · **Closed issues**: 184 · **Open issues**: 72 · **Commits**: 1047
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 3 | 0 | 2 | 0 |
+| last60d | 2026-07-12 | 3 | 14 | 4 | 2 | 2 | 32 |
+| 90d | 2026-06-12 | 3 | 17 | 4 | 2 | 2 | 32 |
+| last180d | 2026-03-14 | 4 | 32 | 8 | 29 | 15 | 48 |
+| 360d | 2025-09-15 | 10 | 46 | 10 | 33 | 23 | 82 |
+| last720d | 2024-09-20 | 18 | 153 | 10 | 48 | 41 | 238 |
 
 ## Release assets
 
@@ -62,33 +93,16 @@ x install soft-serve
 | [soft-serve_0.12.2_x86.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/soft-serve_0.12.2_x86.apk) | 10.4 MiB | `other` |
 | [soft-serve_0.12.2_x86_64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.2/soft-serve_0.12.2_x86_64.apk) | 11.0 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 7,217 · **Forks**: 240 · **Open issues**: 256 · **Contributors**: 57
+Reported by **19** distros on [repology.org](https://repology.org/project/soft-serve). **11** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 52 · **Merged PRs**: 479 · **Open PRs**: 9 · **Closed issues**: 184 · **Open issues**: 72 · **Commits**: 1047
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 2 | 0 | 2 | 0 |
-| 90d | 2026-06-12 | 3 | 17 | 3 | 2 | 2 | 32 |
-| 360d | 2025-09-15 | 10 | 46 | 9 | 33 | 23 | 82 |
-
-## Code size
-
-Total: **23,136** lines of code across **256** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 22,774 | 2,391 | 3,895 | 240 |
-| Sql | 294 | 0 | 18 | 8 |
-| Yaml | 55 | 3 | 10 | 4 |
-| Dockerfile | 13 | 10 | 6 | 1 |
-| Markdown | 0 | 624 | 247 | 3 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.12.2` | ✅ latest |
+| Homebrew | `0.12.2` | ✅ latest |
+| Nix unstable | `0.12.2` | ✅ latest |
+| Void | `0.12.2` | ✅ latest |
 
 ## Improve this data
 
@@ -99,4 +113,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:15:15Z._
