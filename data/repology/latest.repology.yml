@@ -1,0 +1,213 @@
+- repo: arch
+  subrepo: extra
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1
+  status: newest
+  summary: A self-hosted Git server for the command line
+  licenses:
+    - MIT
+- repo: aur
+  srcname: soft-serve-git
+  binname: soft-serve-git
+  visiblename: soft-serve-git
+  version: 0.5.4.r1.gdb3bc9b
+  origversion: 0.5.4.r1.gdb3bc9b-1
+  status: rolling
+  summary: A tasty, self-hostable Git server for the command line
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: devel/soft-serve
+  binname: soft-serve
+  visiblename: devel/soft-serve
+  version: 0.7.6
+  origversion: 0.7.6_23
+  status: outdated
+  summary: Self-hosted Git server for the command line
+  maintainers:
+    - ashish@freebsd.org
+  categories:
+    - devel
+- repo: homebrew
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: null
+  status: newest
+  summary: Mighty, self-hostable Git server for the command-line
+- repo: homebrew
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Mighty, self-hostable Git server for the command-line
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1
+  status: newest
+  summary: A self-hosted Git server for the command line
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1
+  status: newest
+  summary: A self-hosted Git server for the command line
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1
+  status: newest
+  summary: A self-hosted Git server for the command line
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: A tasty, self-hosted Git server for the command line
+  maintainers:
+    - penguwin@penguwin.eu
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - penguwin@penguwin.eu
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.8.5
+  origversion: null
+  status: outdated
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - penguwin@penguwin.eu
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.11.5
+  origversion: null
+  status: outdated
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.11.6
+  origversion: null
+  status: outdated
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - prinn.dev@pm.me
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: null
+  status: newest
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - prinn.dev@pm.me
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1
+  status: newest
+  summary: A self-hosted Git server for the command line
+  licenses:
+    - MIT
+- repo: t2
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: null
+  status: newest
+  summary: Self-hostable Git server
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/development
+- repo: terra_rawhide
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1.fcrawhide
+  status: newest
+  summary: The mighty, self-hostable Git server for the command line
+  maintainers:
+    - arbormoss@woodsprite.dev
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2-1.fcrawhide
+  status: newest
+  summary: The mighty, self-hostable Git server for the command line
+  maintainers:
+    - arbormoss@woodsprite.dev
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.2
+  origversion: 0.12.2_1
+  status: newest
+  summary: Tasty, self-hostable Git server for the command line
+  maintainers:
+    - zen@osowoso.org
+  licenses:
+    - MIT
