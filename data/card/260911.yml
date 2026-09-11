@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.12.2"
   latestRelease: "v0.12.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:38:22Z
+  collectedAt: 2026-09-11T20:19:41Z
 timeline:
   created: 2021-07-30
   lastCommit: 2026-08-12
@@ -85,7 +85,7 @@ total:
   commit: 1047
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/soft-serve
-collectedAt: 2026-09-11T04:38:24Z
+collectedAt: 2026-09-11T20:19:43Z
 loc:
   Go:
     code: 22774
