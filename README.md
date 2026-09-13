@@ -37,7 +37,7 @@ Total: **23,136** lines of code across **256** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,217 · **Forks**: 241 · **Open issues**: 256 · **Contributors**: 57
+- **Stars**: 7,216 · **Forks**: 241 · **Open issues**: 256 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **23,136** lines of code across **256** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 3 | 0 | 2 | 0 |
-| last60d | 2026-07-13 | 3 | 14 | 4 | 2 | 2 | 32 |
-| 90d | 2026-06-13 | 3 | 17 | 4 | 2 | 2 | 32 |
-| last180d | 2026-03-15 | 4 | 32 | 8 | 29 | 14 | 48 |
-| 360d | 2025-09-16 | 10 | 46 | 10 | 33 | 23 | 82 |
-| last720d | 2024-09-21 | 18 | 153 | 10 | 48 | 41 | 238 |
+| 30d | 2026-08-14 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-15 | 3 | 14 | 4 | 2 | 2 | 32 |
+| 90d | 2026-06-15 | 3 | 17 | 4 | 2 | 2 | 32 |
+| last180d | 2026-03-17 | 4 | 31 | 8 | 29 | 14 | 48 |
+| 360d | 2025-09-18 | 10 | 46 | 10 | 33 | 23 | 82 |
+| last720d | 2024-09-23 | 18 | 153 | 10 | 48 | 41 | 238 |
 
 ## Release assets
 
@@ -113,4 +113,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:19:49Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:58:57Z._
