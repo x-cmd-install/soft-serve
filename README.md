@@ -4,7 +4,7 @@
 
 The mighty, self-hostable Git server for the command line🍦
 
-![soft-serve](https://repo.x-cmd.io/soft-serve.svg)
+[![x-cmd/install — soft-serve Code Quality Monitoring Repo Card](https://repo.x-cmd.io/soft-serve.svg)](https://x-cmd.com/install/soft-serve)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **23,136** lines of code across **256** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,220 · **Forks**: 241 · **Open issues**: 256 · **Contributors**: 57
+- **Stars**: 7,224 · **Forks**: 242 · **Open issues**: 256 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **23,136** lines of code across **256** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 3 | 13 | 4 | 2 | 2 | 32 |
-| 90d | 2026-06-20 | 3 | 17 | 4 | 2 | 2 | 32 |
-| last180d | 2026-03-22 | 3 | 31 | 7 | 29 | 13 | 43 |
-| 360d | 2025-09-23 | 10 | 46 | 10 | 33 | 23 | 82 |
-| last720d | 2024-09-28 | 18 | 151 | 10 | 48 | 41 | 237 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-22 | 3 | 13 | 4 | 2 | 2 | 27 |
+| 90d | 2026-06-22 | 3 | 17 | 4 | 2 | 2 | 32 |
+| last180d | 2026-03-24 | 3 | 30 | 7 | 29 | 13 | 40 |
+| 360d | 2025-09-25 | 10 | 46 | 10 | 33 | 22 | 82 |
+| last720d | 2024-09-30 | 18 | 151 | 10 | 48 | 41 | 237 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:38:08Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:51:01Z._
