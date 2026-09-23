@@ -4,7 +4,7 @@
 
 The mighty, self-hostable Git server for the command line🍦
 
-[![x-cmd/install — soft-serve Code Quality Monitoring Repo Card](https://repo.x-cmd.io/soft-serve.svg)](https://x-cmd.com/install/soft-serve)
+[![x-cmd/install — soft-serve Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/soft-serve.svg)](https://x-cmd.com/install/soft-serve)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **23,136** lines of code across **256** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 3 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 3 | 11 | 4 | 0 | 2 | 27 |
-| 90d | 2026-06-24 | 3 | 17 | 4 | 2 | 2 | 32 |
-| last180d | 2026-03-26 | 3 | 30 | 7 | 29 | 13 | 40 |
-| 360d | 2025-09-27 | 10 | 46 | 10 | 33 | 22 | 82 |
-| last720d | 2024-10-02 | 18 | 151 | 10 | 48 | 41 | 237 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 3 | 9 | 4 | 0 | 2 | 27 |
+| 90d | 2026-06-25 | 3 | 14 | 4 | 2 | 2 | 32 |
+| last180d | 2026-03-27 | 3 | 30 | 7 | 29 | 13 | 40 |
+| 360d | 2025-09-28 | 10 | 46 | 10 | 33 | 22 | 82 |
+| last720d | 2024-10-03 | 18 | 151 | 10 | 48 | 41 | 237 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:22Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:20Z._
