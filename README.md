@@ -47,12 +47,12 @@ Total: **23,281** lines of code across **259** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 0 | 3 | 0 | 3 | 11 |
-| last60d | 2026-08-15 | 1 | 0 | 5 | 0 | 4 | 11 |
-| 90d | 2026-07-16 | 4 | 14 | 6 | 2 | 5 | 43 |
-| last180d | 2026-04-17 | 4 | 24 | 9 | 3 | 9 | 47 |
-| 360d | 2025-10-19 | 11 | 46 | 11 | 33 | 24 | 93 |
-| last720d | 2024-10-24 | 19 | 148 | 12 | 48 | 44 | 246 |
+| 30d | 2026-09-15 | 1 | 0 | 3 | 0 | 3 | 11 |
+| last60d | 2026-08-16 | 1 | 0 | 5 | 0 | 4 | 11 |
+| 90d | 2026-07-17 | 4 | 14 | 6 | 2 | 5 | 43 |
+| last180d | 2026-04-18 | 4 | 22 | 9 | 3 | 9 | 47 |
+| 360d | 2025-10-20 | 11 | 46 | 11 | 33 | 24 | 93 |
+| last720d | 2024-10-25 | 19 | 147 | 12 | 48 | 44 | 246 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:47:58Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:43:08Z._
