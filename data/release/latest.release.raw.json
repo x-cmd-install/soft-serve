@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11300470,
       "digest": "sha256:ef0a4a36fb4cec668bf3c91193862adb013326df6971e198207247944ecae325",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-10-05T15:29:56Z",
       "updated_at": "2026-10-05T15:29:57Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3-1.x86_64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 11193690,
       "digest": "sha256:a8e1098f34551f7325005b238bc4f8d591d6f09971435f76582efab5a080a9a5",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-05T15:29:55Z",
       "updated_at": "2026-10-05T15:29:56Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_armv7.apk"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10825055,
       "digest": "sha256:98a9a6ff208453285f0133ea25bc71a5dd8b0c876454bca6792cb9abf8bd3474",
-      "download_count": 152,
+      "download_count": 158,
       "created_at": "2026-10-05T15:29:55Z",
       "updated_at": "2026-10-05T15:29:56Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Darwin_arm64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 10407442,
       "digest": "sha256:72885cc2489fd5acafaaf787243920e42e538210073c3b08bbb79421aa85d532",
-      "download_count": 79,
+      "download_count": 80,
       "created_at": "2026-10-05T15:29:55Z",
       "updated_at": "2026-10-05T15:29:56Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 10722581,
       "digest": "sha256:478b59f5906a8eaad9531f7c964af7ed0df06fc2bcd96c3ee4039633838e2cd8",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-10-05T15:29:54Z",
       "updated_at": "2026-10-05T15:29:56Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_i386.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 11298121,
       "digest": "sha256:ffd0fa5878301131d8e16ac016665af74e59630bbbf66f5fea4d20a8399adc28",
-      "download_count": 141,
+      "download_count": 146,
       "created_at": "2026-10-05T15:29:54Z",
       "updated_at": "2026-10-05T15:29:56Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_x86_64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 11541773,
       "digest": "sha256:8b4df904351d3571029d8d1b71318f88c4569c84967f408f083f6690c4e49f2a",
-      "download_count": 133,
+      "download_count": 136,
       "created_at": "2026-10-05T15:29:54Z",
       "updated_at": "2026-10-05T15:29:56Z",
       "browser_download_url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Windows_x86_64.zip"
