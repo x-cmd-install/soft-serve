@@ -37,7 +37,7 @@ Total: **23,281** lines of code across **259** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,269 · **Forks**: 245 · **Open issues**: 258 · **Contributors**: 58
+- **Stars**: 7,268 · **Forks**: 245 · **Open issues**: 258 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **23,281** lines of code across **259** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 0 | 3 | 0 | 3 | 11 |
-| last60d | 2026-08-23 | 1 | 0 | 5 | 0 | 4 | 11 |
-| 90d | 2026-07-24 | 4 | 11 | 6 | 0 | 5 | 42 |
-| last180d | 2026-04-25 | 4 | 22 | 9 | 3 | 9 | 45 |
-| 360d | 2025-10-27 | 11 | 46 | 11 | 31 | 24 | 93 |
-| last720d | 2024-11-01 | 19 | 147 | 12 | 48 | 44 | 244 |
+| 30d | 2026-09-23 | 1 | 0 | 3 | 0 | 3 | 11 |
+| last60d | 2026-08-24 | 1 | 0 | 5 | 0 | 4 | 11 |
+| 90d | 2026-07-25 | 4 | 9 | 6 | 0 | 5 | 42 |
+| last180d | 2026-04-26 | 4 | 22 | 9 | 3 | 9 | 45 |
+| 360d | 2025-10-28 | 11 | 46 | 11 | 31 | 24 | 93 |
+| last720d | 2024-11-02 | 19 | 147 | 12 | 48 | 44 | 244 |
 
 ## Release assets
 
@@ -93,6 +93,17 @@ Total: **23,281** lines of code across **259** files in the top 5 languages.
 | [soft-serve_0.12.3_x86.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_x86.apk) | 10.6 MiB | `other` |
 | [soft-serve_0.12.3_x86_64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_x86_64.apk) | 11.2 MiB | `other` |
 
+## Distribution status
+
+Reported by **19** distros on [repology.org](https://repology.org/project/soft-serve). **9** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.12.3` | ✅ latest |
+| Homebrew | `0.12.3` | ✅ latest |
+| Nix unstable | `0.12.3` | ✅ latest |
+| Void | `0.12.2` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `soft-serve` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +113,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:47:10Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:32Z._
