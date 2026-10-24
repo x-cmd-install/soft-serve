@@ -3,8 +3,8 @@
   srcname: soft-serve
   binname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
-  origversion: 0.12.3-1
+  version: 0.12.4
+  origversion: 0.12.4-1
   status: newest
   summary: A self-hosted Git server for the command line
   licenses:
@@ -36,7 +36,7 @@
 - repo: homebrew
   srcname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
+  version: 0.12.4
   origversion: null
   status: newest
   summary: Mighty, self-hostable Git server for the command-line
@@ -65,7 +65,7 @@
   visiblename: soft-serve
   version: 0.12.3
   origversion: 0.12.3-1
-  status: newest
+  status: outdated
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
@@ -74,8 +74,8 @@
   srcname: soft-serve
   binname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
-  origversion: 0.12.3-1
+  version: 0.12.4
+  origversion: 0.12.4-1
   status: newest
   summary: A self-hosted Git server for the command line
   licenses:
@@ -140,7 +140,7 @@
   visiblename: soft-serve
   version: 0.12.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Tasty, self-hosted Git server for the command line
   maintainers:
     - prinn.dev@pm.me
@@ -153,14 +153,14 @@
   visiblename: soft-serve
   version: 0.12.3
   origversion: 0.12.3-1
-  status: newest
+  status: outdated
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
 - repo: t2
   srcname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
+  version: 0.12.4
   origversion: null
   status: newest
   summary: Self-hostable Git server
@@ -176,7 +176,7 @@
   visiblename: soft-serve
   version: 0.12.3
   origversion: 0.12.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The mighty, self-hostable Git server for the command line
   maintainers:
     - arbormoss@woodsprite.dev
@@ -190,7 +190,7 @@
   visiblename: soft-serve
   version: 0.12.3
   origversion: 0.12.3-1.fcrawhide
-  status: newest
+  status: outdated
   summary: The mighty, self-hostable Git server for the command line
   maintainers:
     - arbormoss@woodsprite.dev
