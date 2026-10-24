@@ -14,11 +14,11 @@ x install soft-serve
 
 ## Code insight
 
-Total: **23,281** lines of code across **259** files in the top 5 languages.
+Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 22,919 | 2,397 | 3,927 | 243 |
+| Go | 24,716 | 2,826 | 4,145 | 254 |
 | Sql | 294 | 0 | 18 | 8 |
 | Yaml | 55 | 3 | 10 | 4 |
 | Dockerfile | 13 | 10 | 6 | 1 |
@@ -31,8 +31,8 @@ Total: **23,281** lines of code across **259** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.12.3` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Latest**: `v0.12.4` (2026-10-23)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 34
 
 ## Popularity
@@ -41,67 +41,67 @@ Total: **23,281** lines of code across **259** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 479 · **Open PRs**: 12 · **Closed issues**: 183 · **Open issues**: 75 · **Commits**: 1059
+- **Releases**: 54 · **Merged PRs**: 482 · **Open PRs**: 12 · **Closed issues**: 183 · **Open issues**: 75 · **Commits**: 1075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 0 | 3 | 0 | 3 | 11 |
-| last60d | 2026-08-24 | 1 | 0 | 5 | 0 | 4 | 11 |
-| 90d | 2026-07-25 | 4 | 9 | 6 | 0 | 5 | 42 |
-| last180d | 2026-04-26 | 4 | 22 | 9 | 3 | 9 | 45 |
-| 360d | 2025-10-28 | 11 | 46 | 11 | 31 | 24 | 93 |
-| last720d | 2024-11-02 | 19 | 147 | 12 | 48 | 44 | 244 |
+| 30d | 2026-09-24 | 2 | 3 | 3 | 0 | 3 | 26 |
+| last60d | 2026-08-25 | 2 | 3 | 5 | 0 | 4 | 26 |
+| 90d | 2026-07-26 | 5 | 12 | 6 | 0 | 5 | 57 |
+| last180d | 2026-04-27 | 5 | 24 | 9 | 3 | 9 | 60 |
+| 360d | 2025-10-29 | 12 | 49 | 11 | 31 | 24 | 108 |
+| last720d | 2024-11-03 | 20 | 150 | 12 | 48 | 44 | 260 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/checksums.txt) | 3.2 KiB | `other` |
-| [checksums.txt.sigstore.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/checksums.txt.sigstore.json) | 10.2 KiB | `other` |
-| [soft-serve-0.12.3-1.aarch64.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3-1.aarch64.rpm) | 9.9 MiB | `runtime/rpm/aarch64` |
-| [soft-serve-0.12.3-1.armv7hl.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3-1.armv7hl.rpm) | 10.2 MiB | `runtime/rpm/armv7hl` |
-| [soft-serve-0.12.3-1.i386.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3-1.i386.rpm) | 10.2 MiB | `other` |
-| [soft-serve-0.12.3-1.x86_64.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3-1.x86_64.rpm) | 10.8 MiB | `runtime/rpm/x86_64` |
-| [soft-serve-0.12.3.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3.tar.gz) | 225.8 KiB | `native/unknown` |
-| [soft-serve-0.12.3.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve-0.12.3.tar.gz.sbom.json) | 224.2 KiB | `other` |
-| [soft-serve_0.12.3_aarch64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_aarch64.apk) | 10.4 MiB | `other` |
-| [soft-serve_0.12.3_amd64.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_amd64.deb) | 10.8 MiB | `runtime/deb/amd64` |
-| [soft-serve_0.12.3_arm64.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_arm64.deb) | 9.9 MiB | `runtime/deb/arm64` |
-| [soft-serve_0.12.3_armhf.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_armhf.deb) | 10.2 MiB | `runtime/deb/armhf` |
-| [soft-serve_0.12.3_armv7.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_armv7.apk) | 10.7 MiB | `other` |
-| [soft-serve_0.12.3_Darwin_arm64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Darwin_arm64.tar.gz) | 10.3 MiB | `native/darwin/arm64` |
-| [soft-serve_0.12.3_Darwin_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Darwin_arm64.tar.gz.sbom.json) | 141.8 KiB | `native/darwin/arm64` |
-| [soft-serve_0.12.3_Darwin_x86_64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Darwin_x86_64.tar.gz) | 11.2 MiB | `native/darwin/x64` |
-| [soft-serve_0.12.3_Darwin_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Darwin_x86_64.tar.gz.sbom.json) | 142.0 KiB | `native/darwin/x64` |
-| [soft-serve_0.12.3_Freebsd_arm64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Freebsd_arm64.tar.gz) | 9.9 MiB | `native/linux/arm64` |
-| [soft-serve_0.12.3_Freebsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Freebsd_arm64.tar.gz.sbom.json) | 143.9 KiB | `other` |
-| [soft-serve_0.12.3_Freebsd_x86_64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Freebsd_x86_64.tar.gz) | 10.7 MiB | `native/linux/x64` |
-| [soft-serve_0.12.3_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Freebsd_x86_64.tar.gz.sbom.json) | 144.2 KiB | `other` |
-| [soft-serve_0.12.3_i386.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_i386.deb) | 10.2 MiB | `runtime/deb/i386` |
-| [soft-serve_0.12.3_Linux_arm.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_arm.tar.gz) | 10.2 MiB | `native/linux/arm` |
-| [soft-serve_0.12.3_Linux_arm.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_arm.tar.gz.sbom.json) | 139.6 KiB | `native/linux/arm` |
-| [soft-serve_0.12.3_Linux_arm64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_arm64.tar.gz) | 9.9 MiB | `native/linux/arm64` |
-| [soft-serve_0.12.3_Linux_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_arm64.tar.gz.sbom.json) | 140.1 KiB | `native/linux/arm64` |
-| [soft-serve_0.12.3_Linux_i386.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_i386.tar.gz) | 10.2 MiB | `native/linux/x86` |
-| [soft-serve_0.12.3_Linux_i386.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_i386.tar.gz.sbom.json) | 139.8 KiB | `native/linux/x86` |
-| [soft-serve_0.12.3_Linux_x86_64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_x86_64.tar.gz) | 10.8 MiB | `native/linux/x64` |
-| [soft-serve_0.12.3_Linux_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Linux_x86_64.tar.gz.sbom.json) | 140.4 KiB | `native/linux/x64` |
-| [soft-serve_0.12.3_Windows_x86_64.zip](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Windows_x86_64.zip) | 11.0 MiB | `native/win/x64` |
-| [soft-serve_0.12.3_Windows_x86_64.zip.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_Windows_x86_64.zip.sbom.json) | 144.1 KiB | `native/win/x64` |
-| [soft-serve_0.12.3_x86.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_x86.apk) | 10.6 MiB | `other` |
-| [soft-serve_0.12.3_x86_64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.3/soft-serve_0.12.3_x86_64.apk) | 11.2 MiB | `other` |
+| [checksums.txt](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/checksums.txt) | 3.2 KiB | `other` |
+| [checksums.txt.sigstore.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/checksums.txt.sigstore.json) | 10.0 KiB | `other` |
+| [soft-serve-0.12.4-1.aarch64.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve-0.12.4-1.aarch64.rpm) | 10.3 MiB | `runtime/rpm/aarch64` |
+| [soft-serve-0.12.4-1.armv7hl.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve-0.12.4-1.armv7hl.rpm) | 10.6 MiB | `runtime/rpm/armv7hl` |
+| [soft-serve-0.12.4-1.i386.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve-0.12.4-1.i386.rpm) | 10.6 MiB | `other` |
+| [soft-serve-0.12.4-1.x86_64.rpm](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve-0.12.4-1.x86_64.rpm) | 11.1 MiB | `runtime/rpm/x86_64` |
+| [soft-serve-0.12.4.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve-0.12.4.tar.gz) | 254.4 KiB | `native/unknown` |
+| [soft-serve-0.12.4.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve-0.12.4.tar.gz.sbom.json) | 224.2 KiB | `other` |
+| [soft-serve_0.12.4_aarch64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_aarch64.apk) | 10.3 MiB | `other` |
+| [soft-serve_0.12.4_amd64.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_amd64.deb) | 10.8 MiB | `runtime/deb/amd64` |
+| [soft-serve_0.12.4_arm64.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_arm64.deb) | 9.9 MiB | `runtime/deb/arm64` |
+| [soft-serve_0.12.4_armhf.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_armhf.deb) | 10.3 MiB | `runtime/deb/armhf` |
+| [soft-serve_0.12.4_armv7.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_armv7.apk) | 10.7 MiB | `other` |
+| [soft-serve_0.12.4_Darwin_arm64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Darwin_arm64.tar.gz) | 10.3 MiB | `native/darwin/arm64` |
+| [soft-serve_0.12.4_Darwin_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Darwin_arm64.tar.gz.sbom.json) | 141.8 KiB | `native/darwin/arm64` |
+| [soft-serve_0.12.4_Darwin_x86_64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Darwin_x86_64.tar.gz) | 11.2 MiB | `native/darwin/x64` |
+| [soft-serve_0.12.4_Darwin_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Darwin_x86_64.tar.gz.sbom.json) | 142.0 KiB | `native/darwin/x64` |
+| [soft-serve_0.12.4_Freebsd_arm64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Freebsd_arm64.tar.gz) | 9.9 MiB | `native/linux/arm64` |
+| [soft-serve_0.12.4_Freebsd_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Freebsd_arm64.tar.gz.sbom.json) | 143.9 KiB | `other` |
+| [soft-serve_0.12.4_Freebsd_x86_64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Freebsd_x86_64.tar.gz) | 10.7 MiB | `native/linux/x64` |
+| [soft-serve_0.12.4_Freebsd_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Freebsd_x86_64.tar.gz.sbom.json) | 144.2 KiB | `other` |
+| [soft-serve_0.12.4_i386.deb](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_i386.deb) | 10.2 MiB | `runtime/deb/i386` |
+| [soft-serve_0.12.4_Linux_arm.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_arm.tar.gz) | 10.3 MiB | `native/linux/arm` |
+| [soft-serve_0.12.4_Linux_arm.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_arm.tar.gz.sbom.json) | 139.6 KiB | `native/linux/arm` |
+| [soft-serve_0.12.4_Linux_arm64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_arm64.tar.gz) | 9.9 MiB | `native/linux/arm64` |
+| [soft-serve_0.12.4_Linux_arm64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_arm64.tar.gz.sbom.json) | 140.1 KiB | `native/linux/arm64` |
+| [soft-serve_0.12.4_Linux_i386.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_i386.tar.gz) | 10.2 MiB | `native/linux/x86` |
+| [soft-serve_0.12.4_Linux_i386.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_i386.tar.gz.sbom.json) | 139.8 KiB | `native/linux/x86` |
+| [soft-serve_0.12.4_Linux_x86_64.tar.gz](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_x86_64.tar.gz) | 10.8 MiB | `native/linux/x64` |
+| [soft-serve_0.12.4_Linux_x86_64.tar.gz.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Linux_x86_64.tar.gz.sbom.json) | 140.4 KiB | `native/linux/x64` |
+| [soft-serve_0.12.4_Windows_x86_64.zip](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Windows_x86_64.zip) | 11.0 MiB | `native/win/x64` |
+| [soft-serve_0.12.4_Windows_x86_64.zip.sbom.json](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_Windows_x86_64.zip.sbom.json) | 144.1 KiB | `native/win/x64` |
+| [soft-serve_0.12.4_x86.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_x86.apk) | 10.7 MiB | `other` |
+| [soft-serve_0.12.4_x86_64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_x86_64.apk) | 11.2 MiB | `other` |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/soft-serve). **9** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/soft-serve). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.12.3` | ✅ latest |
-| Homebrew | `0.12.3` | ✅ latest |
-| Nix unstable | `0.12.3` | ✅ latest |
+| Arch | `0.12.4` | ✅ latest |
+| Homebrew | `0.12.4` | ✅ latest |
+| Nix unstable | `0.12.3` | ⚠️ outdated |
 | Void | `0.12.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -113,4 +113,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:32Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:35:36Z._
