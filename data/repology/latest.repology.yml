@@ -138,9 +138,9 @@
 - repo: nix_unstable
   srcname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
+  version: 0.12.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Tasty, self-hosted Git server for the command line
   maintainers:
     - prinn.dev@pm.me
@@ -151,9 +151,9 @@
   srcname: soft-serve
   binname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
-  origversion: 0.12.3-1
-  status: outdated
+  version: 0.12.4
+  origversion: 0.12.4-1
+  status: newest
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
