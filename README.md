@@ -37,7 +37,7 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,268 · **Forks**: 245 · **Open issues**: 258 · **Contributors**: 58
+- **Stars**: 7,267 · **Forks**: 245 · **Open issues**: 258 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 2 | 3 | 3 | 0 | 3 | 26 |
-| last60d | 2026-08-25 | 2 | 3 | 5 | 0 | 4 | 26 |
-| 90d | 2026-07-26 | 5 | 12 | 6 | 0 | 5 | 57 |
-| last180d | 2026-04-27 | 5 | 24 | 9 | 3 | 9 | 60 |
-| 360d | 2025-10-29 | 12 | 49 | 11 | 31 | 24 | 108 |
-| last720d | 2024-11-03 | 20 | 150 | 12 | 48 | 44 | 260 |
+| 30d | 2026-09-25 | 2 | 3 | 3 | 0 | 3 | 26 |
+| last60d | 2026-08-26 | 2 | 3 | 5 | 0 | 4 | 26 |
+| 90d | 2026-07-27 | 5 | 12 | 6 | 0 | 5 | 31 |
+| last180d | 2026-04-28 | 5 | 24 | 9 | 3 | 8 | 59 |
+| 360d | 2025-10-30 | 12 | 49 | 11 | 31 | 24 | 107 |
+| last720d | 2024-11-04 | 20 | 150 | 12 | 48 | 43 | 260 |
 
 ## Release assets
 
@@ -95,13 +95,13 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/soft-serve). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/soft-serve). **6** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.12.4` | ✅ latest |
 | Homebrew | `0.12.4` | ✅ latest |
-| Nix unstable | `0.12.3` | ⚠️ outdated |
+| Nix unstable | `0.12.4` | ✅ latest |
 | Void | `0.12.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -113,4 +113,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:35:36Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:34:40Z._
