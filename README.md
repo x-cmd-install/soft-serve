@@ -2,6 +2,8 @@
 
 [中文版本](./README.cn.md)
 
+> ⚠️ This project is archived.
+
 The mighty, self-hostable Git server for the command line🍦
 
 [![x-cmd/install — soft-serve Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/soft-serve.svg)](https://x-cmd.com/install/soft-serve)
@@ -22,7 +24,7 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 | Sql | 294 | 0 | 18 | 8 |
 | Yaml | 55 | 3 | 10 | 4 |
 | Dockerfile | 13 | 10 | 6 | 1 |
-| Markdown | 0 | 624 | 247 | 3 |
+| Markdown | 0 | 628 | 251 | 3 |
 
 ## Source
 
@@ -32,27 +34,27 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.12.4` (2026-10-23)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-26
 - **Assets in release**: 34
 
 ## Popularity
 
-- **Stars**: 7,269 · **Forks**: 246 · **Open issues**: 258 · **Contributors**: 58
+- **Stars**: 7,268 · **Forks**: 247 · **Open issues**: 258 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 482 · **Open PRs**: 12 · **Closed issues**: 183 · **Open issues**: 75 · **Commits**: 1075
+- **Releases**: 54 · **Merged PRs**: 482 · **Open PRs**: 13 · **Closed issues**: 183 · **Open issues**: 75 · **Commits**: 1076
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 3 | 3 | 0 | 3 | 26 |
-| last60d | 2026-08-27 | 2 | 3 | 5 | 0 | 4 | 26 |
-| 90d | 2026-07-28 | 5 | 11 | 6 | 0 | 5 | 31 |
-| last180d | 2026-04-29 | 5 | 24 | 9 | 2 | 7 | 59 |
-| 360d | 2025-10-31 | 12 | 49 | 11 | 31 | 24 | 107 |
-| last720d | 2024-11-05 | 20 | 150 | 12 | 48 | 43 | 260 |
+| 30d | 2026-09-27 | 2 | 3 | 4 | 0 | 3 | 27 |
+| last60d | 2026-08-28 | 2 | 3 | 6 | 0 | 4 | 27 |
+| 90d | 2026-07-29 | 5 | 10 | 7 | 0 | 5 | 32 |
+| last180d | 2026-04-30 | 5 | 24 | 10 | 2 | 7 | 60 |
+| 360d | 2025-11-01 | 12 | 49 | 12 | 31 | 24 | 108 |
+| last720d | 2024-11-06 | 20 | 150 | 13 | 48 | 43 | 261 |
 
 ## Release assets
 
@@ -113,4 +115,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:49:46Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:57:21Z._
