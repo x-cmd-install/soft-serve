@@ -1,3 +1,16 @@
+- repo: t2
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.4
+  origversion: null
+  status: newest
+  summary: Self-hostable Git server
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/development
 - repo: arch
   subrepo: extra
   srcname: soft-serve
@@ -157,26 +170,13 @@
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
-- repo: t2
-  srcname: soft-serve
-  visiblename: soft-serve
-  version: 0.12.4
-  origversion: null
-  status: newest
-  summary: Self-hostable Git server
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - MIT
-  categories:
-    - extra/development
 - repo: terra_rawhide
   srcname: soft-serve
   binname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
-  origversion: 0.12.3-1.fcrawhide
-  status: outdated
+  version: 0.12.4
+  origversion: 0.12.4-1.fcrawhide
+  status: newest
   summary: The mighty, self-hostable Git server for the command line
   maintainers:
     - arbormoss@woodsprite.dev
@@ -188,9 +188,9 @@
   srcname: soft-serve
   binname: soft-serve
   visiblename: soft-serve
-  version: 0.12.3
-  origversion: 0.12.3-1.fcrawhide
-  status: outdated
+  version: 0.12.4
+  origversion: 0.12.4-1.fcrawhide
+  status: newest
   summary: The mighty, self-hostable Git server for the command line
   maintainers:
     - arbormoss@woodsprite.dev
