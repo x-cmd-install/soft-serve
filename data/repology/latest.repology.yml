@@ -1,12 +1,12 @@
-- repo: manjaro_unstable
-  subrepo: extra
+- repo: nix_stable_24_11
   srcname: soft-serve
-  binname: soft-serve
   visiblename: soft-serve
-  version: 0.12.4
-  origversion: 0.12.4-1
-  status: newest
-  summary: A self-hosted Git server for the command line
+  version: 0.7.6
+  origversion: null
+  status: outdated
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - penguwin@penguwin.eu
   licenses:
     - MIT
 - repo: arch
@@ -37,7 +37,7 @@
   binname: soft-serve
   visiblename: devel/soft-serve
   version: 0.7.6
-  origversion: 0.7.6_25
+  origversion: 0.7.6_26
   status: outdated
   summary: Self-hosted Git server for the command line
   maintainers:
@@ -80,6 +80,17 @@
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.4
+  origversion: 0.12.4-1
+  status: newest
+  summary: A self-hosted Git server for the command line
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: soft-serve
   visiblename: soft-serve
@@ -87,17 +98,6 @@
   origversion: null
   status: outdated
   summary: A tasty, self-hosted Git server for the command line
-  maintainers:
-    - penguwin@penguwin.eu
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: soft-serve
-  visiblename: soft-serve
-  version: 0.7.6
-  origversion: null
-  status: outdated
-  summary: Tasty, self-hosted Git server for the command line
   maintainers:
     - penguwin@penguwin.eu
   licenses:
