@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: soft-serve
+  visiblename: soft-serve
+  version: 0.11.5
+  origversion: null
+  status: outdated
+  summary: Tasty, self-hosted Git server for the command line
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
 - repo: aur
   srcname: soft-serve-git
   binname: soft-serve-git
@@ -10,20 +21,6 @@
     - chocobo1@aur
   licenses:
     - MIT
-- repo: terra_rawhide
-  srcname: soft-serve
-  binname: soft-serve
-  visiblename: soft-serve
-  version: 0.12.4
-  origversion: 0.12.4-1.fcrawhide
-  status: newest
-  summary: The mighty, self-hostable Git server for the command line
-  maintainers:
-    - arbormoss@woodsprite.dev
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: freebsd
   srcname: devel/soft-serve
   binname: soft-serve
@@ -72,17 +69,6 @@
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: soft-serve
-  binname: soft-serve
-  visiblename: soft-serve
-  version: 0.12.4
-  origversion: 0.12.4-1
-  status: newest
-  summary: A self-hosted Git server for the command line
-  licenses:
-    - MIT
 - repo: nix_stable_24_05
   srcname: soft-serve
   visiblename: soft-serve
@@ -114,17 +100,6 @@
   summary: Tasty, self-hosted Git server for the command line
   maintainers:
     - penguwin@penguwin.eu
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: soft-serve
-  visiblename: soft-serve
-  version: 0.11.5
-  origversion: null
-  status: outdated
-  summary: Tasty, self-hosted Git server for the command line
-  maintainers:
-    - fallback-mnt-nix@repology
   licenses:
     - MIT
 - repo: nix_stable_26_05
@@ -173,6 +148,20 @@
     - MIT
   categories:
     - extra/development
+- repo: terra_rawhide
+  srcname: soft-serve
+  binname: soft-serve
+  visiblename: soft-serve
+  version: 0.12.4
+  origversion: 0.12.4-1.fcrawhide
+  status: newest
+  summary: The mighty, self-hostable Git server for the command line
+  maintainers:
+    - arbormoss@woodsprite.dev
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: terra_rawhide
   srcname: soft-serve
   binname: soft-serve
