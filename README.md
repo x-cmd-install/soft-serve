@@ -39,7 +39,7 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,265 · **Forks**: 261 · **Open issues**: 259 · **Contributors**: 58
+- **Stars**: 7,265 · **Forks**: 260 · **Open issues**: 259 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -49,12 +49,12 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 3 | 2 | 0 | 0 | 2 |
-| last60d | 2026-09-17 | 2 | 3 | 4 | 0 | 3 | 27 |
-| 90d | 2026-08-18 | 2 | 3 | 6 | 0 | 4 | 27 |
-| last180d | 2026-05-20 | 5 | 21 | 9 | 2 | 7 | 59 |
-| 360d | 2025-11-21 | 10 | 48 | 11 | 31 | 24 | 104 |
-| last720d | 2024-11-26 | 20 | 144 | 13 | 45 | 42 | 258 |
+| 30d | 2026-10-18 | 1 | 3 | 2 | 0 | 0 | 2 |
+| last60d | 2026-09-18 | 2 | 3 | 4 | 0 | 3 | 27 |
+| 90d | 2026-08-19 | 2 | 3 | 6 | 0 | 4 | 27 |
+| last180d | 2026-05-21 | 5 | 21 | 9 | 2 | 7 | 59 |
+| 360d | 2025-11-22 | 10 | 48 | 11 | 31 | 24 | 104 |
+| last720d | 2024-11-27 | 20 | 144 | 13 | 45 | 42 | 258 |
 
 ## Release assets
 
@@ -97,7 +97,7 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/soft-serve). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/soft-serve). **6** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -114,4 +114,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:33:00Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:15:41Z._
