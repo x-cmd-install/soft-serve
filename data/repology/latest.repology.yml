@@ -58,17 +58,6 @@
   summary: A self-hosted Git server for the command line
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: soft-serve
-  binname: soft-serve
-  visiblename: soft-serve
-  version: 0.12.4
-  origversion: 0.12.4-1
-  status: newest
-  summary: A self-hosted Git server for the command line
-  licenses:
-    - MIT
 - repo: nix_stable_24_05
   srcname: soft-serve
   visiblename: soft-serve
