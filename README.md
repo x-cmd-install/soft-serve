@@ -49,12 +49,12 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 2 | 3 | 4 | 0 | 3 | 27 |
-| 90d | 2026-08-26 | 2 | 3 | 6 | 0 | 4 | 27 |
-| last180d | 2026-05-28 | 5 | 20 | 9 | 2 | 6 | 59 |
-| 360d | 2025-11-29 | 10 | 47 | 11 | 31 | 24 | 104 |
-| last720d | 2024-12-04 | 20 | 143 | 13 | 45 | 42 | 258 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 2 | 3 | 4 | 0 | 3 | 27 |
+| 90d | 2026-08-27 | 2 | 3 | 6 | 0 | 4 | 27 |
+| last180d | 2026-05-29 | 5 | 20 | 9 | 2 | 6 | 59 |
+| 360d | 2025-11-30 | 10 | 47 | 11 | 31 | 24 | 104 |
+| last720d | 2024-12-05 | 20 | 140 | 13 | 45 | 41 | 256 |
 
 ## Release assets
 
@@ -95,16 +95,6 @@ Total: **25,078** lines of code across **270** files in the top 5 languages.
 | [soft-serve_0.12.4_x86.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_x86.apk) | 10.7 MiB | `other` |
 | [soft-serve_0.12.4_x86_64.apk](https://github.com/charmbracelet/soft-serve/releases/download/v0.12.4/soft-serve_0.12.4_x86_64.apk) | 11.2 MiB | `other` |
 
-## Distribution status
-
-Reported by **15** distros on [repology.org](https://repology.org/project/soft-serve). **6** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.12.4` | ✅ latest |
-| Nix unstable | `0.12.4` | ✅ latest |
-| Void | `0.12.2` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `soft-serve` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +104,4 @@ Install metadata for soft-serve lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:04:47Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:22:30Z._
